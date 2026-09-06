@@ -30,10 +30,6 @@ Nadam came out on top for accuracy, RMSprop had the lowest loss. SGD and Adagrad
 
 Using the [Dogs vs Cats dataset](https://www.kaggle.com/c/dogs-vs-cats) from Kaggle. 
 
-1. Download the dataset from the link above
-2. Drop it into `data/train/` and `data/test/`, with `cats/` and `dogs/` subfolders in each
-3. Update the paths at the top of the notebook if yours don't match
-
 ## Running it
 
-Needs TensorFlow, NumPy, Pandas, Matplotlib, and scikit-learn. Once the dataset's in place, just open the notebook and run through the cells top to bottom — each optimizer trains and logs its results at the end.
+Needs TensorFlow, NumPy, Pandas, Matplotlib, and scikit-learn. 
